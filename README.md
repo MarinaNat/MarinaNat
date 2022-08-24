@@ -16,10 +16,10 @@
 <div>
 <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
 
-<img width="50%" src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
+<img width="25%" src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
 
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
   
 </div>
 
