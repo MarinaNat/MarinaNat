@@ -47,7 +47,7 @@
 
 ### 📫  Контакты: 
 - 📧Почта: 79112616306@ya.ru
-- [![telegram](https://img.shields.io/badge/Telegram-68c4f0?style=for-the-badge&logo=telegram)](https://t.me/Marina_Natalina)
+- 🌐Telegram: [@Marina_Natalina](https://t.me/Marina_Natalina)
 
-![codewars](https://www.codewars.com/users/MarinaNat/badges/micro)
+![codewars](https://www.codewars.com/users/MarinaNat/badges/large)
 
