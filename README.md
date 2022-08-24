@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  
+  <img width="20%"  align='right' src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
 </div>
 
 ### Привет всем, меня зовут Марина 👋
@@ -10,7 +10,7 @@
 - 💻 Осваиваю новые технологии
 - 📽️ Смотрю фильмы
 
-<img width="20%"  align='right' src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
+
 
 ###  Статистика профиля: [ Посмотреть ](https://metrics.lecoq.io/insights/MarinaNat)
 
