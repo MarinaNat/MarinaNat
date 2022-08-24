@@ -1,12 +1,13 @@
 <div align="center">
-<img src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
+  <img src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
 </div>
 
 <h1 id="header" align="center">
   Привет всем, меня зовут Марина 👋
 </h1>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=I+Junior+Frontend+developer" alt="Typing SVG" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=I+Junior+Frontend+developer" alt="Typing SVG" /></a>
+</div>
 
 - 🎓 В настоящее время я учусь в Яндекс.Практикум на курсе Веб-разработчик
 - 💼 Хочу работать в дружной команде опытных разработчиков
@@ -18,8 +19,9 @@
 
 ### Мой статус:
 <div>
-  <img width="35%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
-  
+  <div align="center">
+    <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
+  <div>
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
   
