@@ -8,9 +8,9 @@
 
 ### Мой статус:
 <div>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
-  <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
 </div>
 
 ### 🔨 Мой стек:
