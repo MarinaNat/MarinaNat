@@ -18,7 +18,7 @@
 <div>
 <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
 
-<img align='right' src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
+<img  src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
 
 
 
