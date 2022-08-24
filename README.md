@@ -18,8 +18,7 @@
 
 ### Мой статус:
 <div>
-  
-  <img width="45%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
+  <img width="35%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarinaNat&theme=github_dark">
   
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
