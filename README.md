@@ -45,7 +45,9 @@
 ![Figma](https://img.shields.io/badge/Figma-090909?style=for-the-badge&logo=Figma)
 ![adobephotoshop](https://img.shields.io/badge/ps-090909?style=for-the-badge&logo=adobephotoshop)
 
-### 📫  Контакты:  
+### 📫  Контакты: 
 - 📧Почта: 79112616306@ya.ru
 - [![telegram](https://img.shields.io/badge/Telegram-68c4f0?style=for-the-badge&logo=telegram)](https://t.me/Marina_Natalina)
+
+![codewars](https://www.codewars.com/users/MarinaNat/badges/micro)
 
