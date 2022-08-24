@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img width="20%"  align='right' src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
+  
 </div>
 
 ### Привет всем, меня зовут Марина 👋
@@ -20,7 +20,7 @@
 
 <img  src="https://media4.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif?cid=790b7611da11823eb87f4d8b2694b77b7ce44ea4080f5a04&rid=giphy.gif&ct=s" width="200">
 
-
+<img width="20%" src="https://img1.liveinternet.ru/images/attach/d/3/157/900/157900477_rothanachhourmezgifcomresize4.gif" />
 
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=MarinaNat&theme=github-dark-blue&hide_border=&locale=ru">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=MarinaNat&theme=github_dark&hide_border=&locale=ru">
